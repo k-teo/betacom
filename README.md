@@ -11,7 +11,7 @@ Properties to change:
 *  spring.datasource.password=
 
 
-After it run the application. You can use e.g. Postman to see how it works.
+After it, run the application. You can use e.g. Postman to see how it works.
 
 ### Endpoints:
 
